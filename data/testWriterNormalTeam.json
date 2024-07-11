@@ -1,0 +1,76 @@
+{
+    "upperBoundAge": 20,
+    "lowerBoundAge": 15,
+    "players": [
+        {
+            "stats": {
+                "rebounds": 0,
+                "assists": 0,
+                "blocks": 0,
+                "points": 0
+            },
+            "name": "Tom",
+            "jerseyNumber": 0,
+            "position": "PG",
+            "age": 18
+        },
+        {
+            "stats": {
+                "rebounds": 0,
+                "assists": 0,
+                "blocks": 0,
+                "points": 0
+            },
+            "name": "Ash",
+            "jerseyNumber": 0,
+            "position": "SG",
+            "age": 19
+        }
+    ],
+    "name": "Toms gang",
+    "games": [
+        {
+            "date": "2024-02-25",
+            "venue": "SRC",
+            "homeScore": 0,
+            "opponentScore": 0,
+            "opponentName": "3198",
+            "isWin": false
+        },
+        {
+            "date": "2024-03-10",
+            "venue": "Osborne",
+            "homeScore": 0,
+            "opponentScore": 0,
+            "opponentName": "Sham Gang",
+            "isWin": false
+        },
+        {
+            "date": "2024-03-12",
+            "venue": "Upcoming Venue",
+            "homeScore": 0,
+            "opponentScore": 0,
+            "opponentName": "Upcoming Opponent",
+            "isWin": false
+        }
+    ],
+    "trainingSessions": [
+        {
+            "date": "2024-03-05",
+            "duration": 90,
+            "venue": "Training Facility1",
+            "attendees": [
+                "Tom",
+                "Ash"
+            ],
+            "completed": false
+        },
+        {
+            "date": "2024-02-20",
+            "duration": 75,
+            "venue": "Training Facility2",
+            "attendees": ["Ash"],
+            "completed": false
+        }
+    ]
+}

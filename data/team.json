@@ -1,0 +1,32 @@
+{
+    "upperBoundAge": 24,
+    "lowerBoundAge": 19,
+    "players": [{
+        "stats": {
+            "rebounds": 10,
+            "assists": 10,
+            "blocks": 10,
+            "points": 10
+        },
+        "name": "Dhruv",
+        "jerseyNumber": 20,
+        "position": "PG",
+        "age": 19
+    }],
+    "name": "UBC",
+    "games": [{
+        "date": "2024-04-19",
+        "venue": "src",
+        "homeScore": 10,
+        "opponentScore": 5,
+        "opponentName": "TSU",
+        "isWin": true
+    }],
+    "trainingSessions": [{
+        "date": "2024-05-19",
+        "duration": 60,
+        "venue": "SRC",
+        "attendees": ["Dhruv"],
+        "completed": false
+    }]
+}

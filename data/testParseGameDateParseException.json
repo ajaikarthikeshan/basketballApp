@@ -1,0 +1,17 @@
+{
+  "name": "Toms Gang",
+  "lowerBoundAge": 15,
+  "upperBoundAge": 20,
+  "players": [],
+  "games": [
+    {
+      "opponentName": "Sham Gang",
+      "date": "Sat Jun 01 12:53:10 IST 2013",
+      "venue": "Osborne",
+      "homeScore": 80,
+      "opponentScore": 75,
+      "isWin": true
+    }
+  ],
+  "trainingSessions": []
+}

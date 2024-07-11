@@ -1,0 +1,15 @@
+{
+  "name": "Toms Gang",
+  "lowerBoundAge": 15,
+  "upperBoundAge": 20,
+  "players": [],
+  "games": [],
+  "trainingSessions": [
+    {
+      "date": "Sat Jun 01 12:53:10 IST 2013",
+      "venue": "Training Facility1",
+      "duration": 90,
+      "attendees": []
+    }
+  ]
+}

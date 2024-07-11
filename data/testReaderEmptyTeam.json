@@ -1,0 +1,8 @@
+{
+  "name": "name",
+  "lowerBoundAge": 0,
+  "upperBoundAge": 0,
+  "players": [],
+  "games": [],
+  "trainingSessions": []
+}
